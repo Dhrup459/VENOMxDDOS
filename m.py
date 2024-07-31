@@ -10,6 +10,7 @@ keep_alive()
 # insert your Telegram bot token here
 bot = 7390191456:AAFriBWT_M8P3QjDV00eXrw7esp9tJelT-g
 
+
 # Admin user IDs
 admin_id = ["2053901780"]
 
